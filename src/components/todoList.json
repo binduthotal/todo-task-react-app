@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "todos": "Learn Javascript, React",
+      "taskDone": false,
+      "id": 1
+    },
+    {
+      "todos": "Learn React",
+      "taskDone": false,
+      "id": 2
+    },
+    {
+      "todos": "Learn NodeJS",
+      "taskDone": false,
+      "id": 3
+    },
+    {
+      "todos": "Learn ExpressJS",
+      "taskDone": false,
+      "id": 4
+    }
+  ]
+}
